@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nirav Chaturvedi
 - 👀 I’m interested in learning and exploring new technology
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development,cp and some extra stuff
 - 📫 How to reach me ...
 
 <!---
